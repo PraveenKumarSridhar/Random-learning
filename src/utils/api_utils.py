@@ -20,7 +20,6 @@ import wikipedia
 # get_random_article()
 
 from bs4 import BeautifulSoup
-import webbrowser
 import requests
 import time
 

@@ -1,0 +1,4 @@
+bottle
+beautifulsoup4
+wikipedia
+requests
